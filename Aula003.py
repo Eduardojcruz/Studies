@@ -7,3 +7,5 @@ A função type mostra o tipo que o Python inferiu o valor.
 """
 print(11)
 print(3.2)
+
+print(type(11))
