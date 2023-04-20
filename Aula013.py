@@ -1,8 +1,8 @@
 """
 Fatiamente de strings
 
--012345678
--Olá mundo
+ 012345678
+ Olá mundo
 -987654321
 
 Fatimente [inicio:fim:pular]
