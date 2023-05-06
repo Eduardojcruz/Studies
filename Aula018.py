@@ -1,14 +1,14 @@
 """
 Repetições
 while (enquanto)
-Executa uma ação enuqanto uma condição for verdadeira
+Executa uma ação enquanto uma condição for verdadeira
 
 """
 contador = 1
 
 while True:
     print(contador)
-    if contador == 10:
+    if contador == 100:
         break
     contador=contador + 1
 
